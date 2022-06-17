@@ -5,3 +5,9 @@ h1 {
 h2 {
     font-size: 50px;
 }
+
+p {
+    color: gold;
+    background-color: purple;
+    
+}
